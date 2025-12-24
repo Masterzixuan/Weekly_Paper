@@ -19,10 +19,9 @@ ML的一个不足：可能不能实现对未来的预测，因为超出了训练
 传统物理模型的不足：参数不确定性大，参数调优困难
 > the reliability of PB models is often compromised by their parameter-related uncertainties, oversimplification of complex processes, and the need for extensive calibration against empirical data (Arhonditsis & Brett, 2004; Clark et al., 2016; Montanari, 2007). 
 
-
 数据：
 ISMN地面观测土壤湿度、ERA5做驱动、
 
 物理约束组主要是一个水量平衡公式
-![alt text](image.png)
+![alt text](fig/image.png)
 AI模型用的是LSTM
