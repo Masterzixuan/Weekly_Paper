@@ -11,3 +11,8 @@ flash drought引起了较强的关注，列举了几个flash drought的时间**�
 
 flash drought的特点:**爆发速度快且加强迅速,持续时间短**,可分类为热浪型突发性干旱和降水亏缺型突发性干旱
 > Flash droughts differ from conventional drought which is characterized by the persistent lack of precipitation P, accompanied by soil moisture (SM), and/or runoff deficits, usually for 6 months or longer (Svoboda et al. 2002). Flash droughts have much shorter durations—typically a few weeks. Furthermore, while conventional droughts develop slowly, a key feature of flash droughts is their rapid onset and intensification (Pendergrass et al. 2020).
+
+对于flash drought的定义：
+> A number of alternative definitions of flash drought have been developed. Ford and Labosier (2017) defined flash drought as a decrease in soil moisture from 40% to below 20%, which is the threshold for category D2 drought according to the U.S. Drought Monitor (USDM; Svoboda et al. 2002) over a period of 20 days. Later, Koster et al. (2019) adopted a similar definition of flash drought. Because rapid onset is a key aspect of flash drought (Pendergrass et al. 2020), some definitions of flash drought are based on the rapid rate of intensification of an index (e.g., Otkin et al. 2018) together with a soil moisture requirement. The index can be satellite derived ET based on remote sensing. For example: Otkin et al. (2018) proposed using the rapid change index (RCI; Otkin et al. 2013; Otkin et al. 2014), which encapsulates the magnitudes of moisture stress changes over a few weeks when soil moisture percentiles are less than 20%. Chen et al. (2019) studied flash drought events based on the USDM and related flash drought occurrence to cold ENSO events.
+
+
