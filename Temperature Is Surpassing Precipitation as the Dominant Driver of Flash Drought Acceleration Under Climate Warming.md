@@ -2,6 +2,8 @@
 
 文章主要是利用RF通过降水和温度等变量来预测flashdrought，然后根据SHAP来评估降水和温度对flash drought事件的可解释性，进而分析这一年的flash drought是降水亏损主导还是高温主导，进一步得到主导因素转变的趋势。
 我觉得这个方法可以用到之前CSM里边，植被的生长状况收到水分和能量的约束，全球变化背景下，应该有一个由能量限制到水分限制的趋势变化，那么我们也可以用这个方法得到各个区域的趋势变化
+**author**
+Feng Ma , Hua Li NanJing University
 
 
 flash drought引起的原因：
