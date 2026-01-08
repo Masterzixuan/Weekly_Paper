@@ -1,6 +1,6 @@
 # ADAF: An Artificial Intelligence Data Assimilation Framework for Weather Forecasting
 **Author**
-Yanfei Xiang, Haiyu Dong
+Yanfei Xiang, Haiyu Dong, Xiaomeng Huang
 Department of Earth System Science, Ministry of Education Key Laboratory for Earth System Modeling, Institute for Global Change Studies, Tsinghua University, Beijing, China
 
 **abstract：**
